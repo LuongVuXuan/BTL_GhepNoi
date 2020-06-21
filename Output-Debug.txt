@@ -1,0 +1,104 @@
+﻿'QuanLiRaVao.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuanLiRaVao.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'D:\Embedded\UART\UART_DESKTOP\QuanLiRaVao\bin\Debug\QuanLiRaVao.exe'. Symbols loaded.
+'QuanLiRaVao.exe' (CLR v4.0.30319: QuanLiRaVao.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuanLiRaVao.exe' (CLR v4.0.30319: QuanLiRaVao.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuanLiRaVao.exe' (CLR v4.0.30319: QuanLiRaVao.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuanLiRaVao.exe' (CLR v4.0.30319: QuanLiRaVao.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuanLiRaVao.exe' (CLR v4.0.30319: QuanLiRaVao.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QuanLiRaVao.exe' (CLR v4.0.30319: QuanLiRaVao.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+The thread 0x2a4 has exited with code 0 (0x0).
+rfid code: ??*z
+rfid code: ??*z
+rfid code: y`??
+rfid code: y`??
+The thread 0x2f48 has exited with code 0 (0x0).
+rfid code: y`?8y
+rfid code: y`??
+rfid code: y`??
+rfid code: y`??y
+The thread 0x1e8 has exited with code 0 (0x0).
+The thread 0x1618 has exited with code 0 (0x0).
+The thread 0x2eb8 has exited with code 0 (0x0).
+The thread 0x37dc has exited with code 0 (0x0).
+The thread 0x36c0 has exited with code 0 (0x0).
+rfid code:  y`?
+The thread 0x3248 has exited with code 0 (0x0).
+The thread 0x948 has exited with code 0 (0x0).
+The thread 0x1b3c has exited with code 0 (0x0).
+The thread 0x1f94 has exited with code 0 (0x0).
+The thread 0x1e4 has exited with code 0 (0x0).
+The thread 0xf54 has exited with code 0 (0x0).
+The thread 0xefc has exited with code 0 (0x0).
+The thread 0x2fcc has exited with code 0 (0x0).
+rfid code: y`??
+rfid code: y`7y`
+The thread 0x15ec has exited with code 0 (0x0).
+rfid code: y`??
+rfid code: y`??y
+rfid code: `y`?
+The thread 0x3710 has exited with code 0 (0x0).
+rfid code:  ??*
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+rfid code: y`y`
+rfid code: y`??
+rfid code: y`y`?
+rfid code: ? y
+rfid code: `??
+rfid code:  y`??
+rfid code: y`y`
+The thread 0x254c has exited with code 0 (0x0).
+rfid code:  y`y
+rfid code: y`y`?
+rfid code: y`??
+The thread 0x2b40 has exited with code 0 (0x0).
+The thread 0x3138 has exited with code 0 (0x0).
+The thread 0x247c has exited with code 0 (0x0).
+The thread 0x1410 has exited with code 0 (0x0).
+The thread 0x1868 has exited with code 0 (0x0).
+rfid code: START
+rfid code: y`??
+The thread 0x358 has exited with code 0 (0x0).
+rfid code: y`y`?
+rfid code: ?y`7y
+rfid code: `??y
+rfid code: `?y`?
+rfid code: ?y`y
+rfid code: `??
+rfid code:    
+rfid code: y  
+rfid code: yy`y`
+rfid code: ??y`
+rfid code: y`??
+rfid code:  y`
+rfid code: y`??
+rfid code: y` 
+rfid code:   y
+rfid code: `??y
+rfid code: y`??
+The thread 0x1218 has exited with code 0 (0x0).
+rfid code: y`??
+rfid code: y`y`
+rfid code: y`??
+rfid code: y`??
+rfid code: y`7y`
+rfid code: ??*z
+rfid code: ??*z
+rfid code: ??*z
+The program '[11800] QuanLiRaVao.exe' has exited with code 0 (0x0).
